@@ -33,31 +33,33 @@ nav img{
 
 }
 
+main{
+padding-left: 25%;
+padding-right: 23.5%;
+}
+
+
 main img{
   margin-top: 3%;
-margin-left: 29%;
+  margin-left: 24px;
 }
 
 main div{
 margin-top: 3%;
-margin-left: 29%;
 
 }
 
 main div img {
   display:inline-block;
   margin-top: 3%;
-  margin-left: 1%;
 
 }
 
 main article div{
   display: inline-block;
-width: 50%;
 }
 main article div h3{
   margin-top: 2%;
-  margin-left: 2%;
 
   display:inline-block;
   font-size: x-large;
@@ -81,16 +83,17 @@ main article div button{
   margin-left: 0%;
   background-color: rgb(0, 0, 0);
   color: rgb(255, 255, 255);
-  width: 300px;
+  width: 440px;
   height: 62px;
-
 }
+
+
 
 main article div div {
   margin: 0;
   background-color: rgb(255, 255, 255);
-  width: 300px;
-  height: 320px;
+  width: 441px;
+  height: 321px;
   overflow: auto;
 }
 main article div div p{
